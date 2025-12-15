@@ -26,6 +26,7 @@ body {
   font-size: 64px;
 }
 
+
 .nav a {
   margin-left: 25px;
   text-decoration: none;
@@ -163,5 +164,13 @@ button {
 .icon {
   width: 25px;
   height: 25px;
+}
+
+.logo-link {
+  all: unset;        
+  font-size: 64px;
+  font-family: 'SouthGhetto', sans-serif;
+  cursor: pointer;
+  color: #000;
 }
 

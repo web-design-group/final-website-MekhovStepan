@@ -364,3 +364,10 @@ body {
     align-items: center;
   }
 }
+.logo-link {
+  all: unset;        
+  font-size: 64px;
+  font-family: 'SouthGhetto', sans-serif;
+  cursor: pointer;
+  color: #000;
+}

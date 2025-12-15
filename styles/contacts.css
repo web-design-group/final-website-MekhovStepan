@@ -75,3 +75,10 @@ body,
 body * {
     font-family: 'SouthGhetto', sans-serif;
 }
+.logo-link {
+  all: unset;        
+  font-size: 64px;
+  font-family: 'SouthGhetto', sans-serif;
+  cursor: pointer;
+  color: #000;
+}
